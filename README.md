@@ -1,16 +1,59 @@
-# React + Vite
+# React Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Description
 
-Currently, two official plugins are available:
+This is a responsive portfolio website built using React and Vite. It showcases a clean user interface, reusable React components, and multiple pages for presenting personal and professional information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- Responsive Design
+- React Components
+- Modern UI
+- Fast Performance with Vite
+- Easy Navigation
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+- React
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Git
+- GitHub
+- Vercel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/AmulyaM094/mission3_react_vite_project-.git
+```
+
+Go into the project folder:
+
+```bash
+cd mission3_react_vite_project-
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## 🌐 Live Demo
+varcel_projectapp_link:https://vercel.com/amulyam094s-projects
+
+## 👩‍💻 Author
+
+**Amulya M**
+
+GitHub: https://github.com/AmulyaM094
