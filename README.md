@@ -53,6 +53,7 @@ npm run dev
 varcel_projectapp_link:https://vercel.com/amulyam094s-projects
 
 ## 👩‍💻 Author
+## GitHub Achievement Practice
 
 **Amulya M**
 
